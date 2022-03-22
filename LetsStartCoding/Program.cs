@@ -15,4 +15,4 @@ var square = new Square{
     EndingPoint = fin
 };
 
-Console.Out.WriteLineAsync("el area es  " + square.GetArea());
+Console.Out.WriteLineAsync("Esto es sólo el principio de lo que puede hacer un cuadrado de área  " + square.GetArea());
